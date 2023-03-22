@@ -1,0 +1,4 @@
+/Users/luyifan/Desktop/2023Spr/highLevelDataSructure_lesson/hw4/cmake-build-debug/CMakeFiles/hw4.dir
+/Users/luyifan/Desktop/2023Spr/highLevelDataSructure_lesson/hw4/cmake-build-debug/CMakeFiles/SplayTree.h.dir
+/Users/luyifan/Desktop/2023Spr/highLevelDataSructure_lesson/hw4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luyifan/Desktop/2023Spr/highLevelDataSructure_lesson/hw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
